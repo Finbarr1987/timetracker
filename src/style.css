@@ -1,0 +1,70 @@
+/* Basic styling for the app */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: #f3f4f6;
+  margin: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Header styling */
+header {
+  background-color: #f97316;
+  color: white;
+  padding: 1rem;
+}
+
+/* Navigation styling */
+nav {
+  background-color: #1f2937;
+  color: white;
+}
+
+nav button {
+  color: white;
+  border: none;
+  background: transparent;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+nav button.active {
+  background-color: #374151;
+}
+
+/* Card styling */
+.card {
+  background-color: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+/* Button styling */
+.btn {
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+}
+
+.btn-danger {
+  background-color: #ef4444;
+  color: white;
+  border: none;
+}
+
+.btn-success {
+  background-color: #10b981;
+  color: white;
+  border: none;
+}

@@ -1,0 +1,48 @@
+/* Custom color overrides */
+header.bg-orange-500 {
+  background-color: #f97316 !important; /* Tailwind orange-500 */
+}
+
+nav.bg-gray-800 {
+  background-color: #1f2937 !important; /* Tailwind gray-800 */
+}
+
+button.bg-gray-700, .bg-gray-700 {
+  background-color: #374151 !important; /* Tailwind gray-700 */
+}
+
+.bg-blue-500, button.bg-blue-500 {
+  background-color: #3b82f6 !important; /* Tailwind blue-500 */
+}
+
+.bg-green-500, button.bg-green-500 {
+  background-color: #10b981 !important; /* Tailwind green-500 */
+}
+
+.bg-red-500, button.bg-red-500 {
+  background-color: #ef4444 !important; /* Tailwind red-500 */
+}
+
+.text-blue-500 {
+  color: #3b82f6 !important; /* Tailwind blue-500 */
+}
+
+.text-red-500 {
+  color: #ef4444 !important; /* Tailwind red-500 */
+}
+
+.text-green-500 {
+  color: #10b981 !important; /* Tailwind green-500 */
+}
+
+.text-green-600 {
+  color: #059669 !important; /* Tailwind green-600 */
+}
+
+.bg-blue-100 {
+  background-color: #dbeafe !important; /* Tailwind blue-100 */
+}
+
+.text-blue-800 {
+  color: #1e40af !important; /* Tailwind blue-800 */
+}
